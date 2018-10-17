@@ -1,0 +1,4 @@
+services:
+  example_d8.default:
+    class: Drupal\example_d8\DefaultService
+    arguments: []

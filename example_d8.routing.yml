@@ -1,0 +1,9 @@
+
+example_d8.default_form:
+  path: '/example_d8/form/default'
+  defaults:
+    _form: '\Drupal\example_d8\Form\DefaultForm'
+    _title: 'DefaultForm'
+  requirements:
+    _access: 'TRUE'
+  
